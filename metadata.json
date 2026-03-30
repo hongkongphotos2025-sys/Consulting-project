@@ -1,0 +1,7 @@
+{
+  "name": "Survvi Opulence Insights",
+  "description": "A cutting-edge, technology-driven management consulting and market research platform specializing in building materials and global energy markets, featuring real-time data and AI-powered insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
